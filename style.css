@@ -1,0 +1,70 @@
+body
+{
+	background-color: snow;
+}
+
+.drake_petit
+{
+width: 400px;
+height: 150px;
+}
+.navbar
+{
+
+display: flex;
+justify-content: space-around;
+margin-top: 100px;
+}
+.container
+{
+	position: relative;
+	margin-top: 10px;
+}
+.drake_petit
+{
+	margin-top: -40px;
+	margin-left: -40px;
+}
+
+.logo
+{
+	display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 200px;
+    width: 500px;
+    height: 300px;
+
+}
+
+p
+{
+	display:block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.text
+{
+
+display: flex;
+justify-content: space-around;
+margin-top: -100px;
+}
+
+.navbar2
+{
+	position: relative;
+	
+}
+
+
+
+
+
+
